@@ -1,6 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = {
+  /*test*/
   /**
    * An asynchronous register function that runs before
    * your application is initialized.
